@@ -11,6 +11,7 @@ This turborepo uses [npm](https://www.npmjs.com/) as a package manager. It inclu
 - `docs`: a [Next.js](https://nextjs.org) app
 - `web-react`: a ReactJS app frontend
 - `web-vue`: a VueJS app frontend
+- `cms-sanity`: cms app
 - `ui`: a component library based off of Wired Elements (web components)
 - `eslint-config-custom`: `eslint` configurations (includes `eslint-config-next` and `eslint-config-prettier`)
 - `tsconfig`: `tsconfig.json`s used throughout the monorepo
